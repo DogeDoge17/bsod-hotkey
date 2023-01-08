@@ -1,0 +1,18 @@
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\bin\Debug\net6.0-windows\bluescreen trigger.exe
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\bin\Debug\net6.0-windows\bluescreen trigger.deps.json
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\bin\Debug\net6.0-windows\bluescreen trigger.runtimeconfig.json
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\bin\Debug\net6.0-windows\bluescreen trigger.dll
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\bin\Debug\net6.0-windows\bluescreen trigger.pdb
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.csproj.AssemblyReference.cache
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen_trigger.Form1.resources
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.csproj.GenerateResource.cache
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.AssemblyInfoInputs.cache
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.AssemblyInfo.cs
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.csproj.CoreCompileInputs.cache
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.dll
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\refint\bluescreen trigger.dll
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.pdb
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen trigger.genruntimeconfig.cache
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\ref\bluescreen trigger.dll
+C:\Users\noahj\source\repos\bluescreen trigger\bluescreen trigger\obj\Debug\net6.0-windows\bluescreen_trigger.Properties.Resources.resources
